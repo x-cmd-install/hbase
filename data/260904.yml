@@ -1,0 +1,76 @@
+about:
+  description: Apache HBase
+  license: Apache-2.0
+  homepage: https://hbase.apache.org/
+  head: 5432392
+  archived: false
+  latestVersion: rel/3.0.0
+  collectedAt: 2026-09-04T04:25:12Z
+timeline:
+  created: 2014-05-23
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-06
+popularity:
+  star: 5555
+  watcher: 376
+  fork: 3399
+  release: 54
+  contributor: 532
+  pullRequest: 1806
+  issue: 0
+language:
+  Java: 46251136
+  HTML: 3043679
+  MDX: 1692130
+  Ruby: 817037
+  TypeScript: 412497
+  Perl: 383739
+  Shell: 380837
+  Python: 147867
+  JavaScript: 62210
+  Thrift: 56129
+  CSS: 47285
+  Dockerfile: 29940
+  Batchfile: 26526
+  C++: 19726
+  PHP: 8385
+  C: 4041
+  XSLT: 3924
+  Puppet: 1458
+  CMake: 1437
+  Makefile: 1359
+  Go Template: 1139
+totalLine: 53392481
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 53
+    openPR: 35
+    closedIssue: 0
+    openIssue: 0
+    commit: 38
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 215
+    openPR: 58
+    closedIssue: 0
+    openIssue: 0
+    commit: 138
+  last180d:
+    since: 2026-03-08
+    release: 4
+    mergedPR: 607
+    openPR: 80
+    closedIssue: 0
+    openIssue: 0
+    commit: 321
+  last360d:
+    since: 2025-09-09
+    release: 7
+    mergedPR: 1103
+    openPR: 122
+    closedIssue: 0
+    openIssue: 0
+    commit: 584
