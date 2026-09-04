@@ -7,7 +7,7 @@ about:
   head: 5432392
   archived: false
   latestVersion: rel/3.0.0
-  collectedAt: 2026-09-04T19:34:26Z
+  collectedAt: 2026-09-04T21:05:30Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-09-03
@@ -47,59 +47,227 @@ recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 53
-    openPR: 35
+    mergedPR: 55
+    openPR: 33
     closedIssue: 0
     openIssue: 0
     commit: 38
   last60d:
     since: 2026-07-06
     release: 2
-    mergedPR: 99
-    openPR: 47
+    mergedPR: 101
+    openPR: 45
     closedIssue: 0
     openIssue: 0
     commit: 68
   last90d:
     since: 2026-06-06
     release: 2
-    mergedPR: 215
-    openPR: 58
+    mergedPR: 217
+    openPR: 56
     closedIssue: 0
     openIssue: 0
     commit: 138
   last180d:
     since: 2026-03-08
     release: 4
-    mergedPR: 607
-    openPR: 80
+    mergedPR: 609
+    openPR: 78
     closedIssue: 0
     openIssue: 0
     commit: 321
   last360d:
     since: 2025-09-09
     release: 7
-    mergedPR: 1103
-    openPR: 122
+    mergedPR: 1105
+    openPR: 120
     closedIssue: 0
     openIssue: 0
     commit: 584
   last720d:
     since: 2024-09-14
     release: 11
-    mergedPR: 1988
-    openPR: 192
+    mergedPR: 1990
+    openPR: 190
     closedIssue: 0
     openIssue: 0
     commit: 994
 total:
   release: 54
-  mergedPR: 6811
-  openPR: 393
+  mergedPR: 6813
+  openPR: 391
   closedIssue: 0
   openIssue: 0
   commit: 21269
 ---
+path: /home/runner/.x-repo/github.com/apache/hbase
+collectedAt: 2026-09-04T21:06:00Z
+loc:
+  Java:
+    code: 925114
+    comments: 255905
+    blanks: 149628
+    files: 5412
+  Html:
+    code: 51029
+    comments: 300
+    blanks: 252
+    files: 17
+  Python:
+    code: 28623
+    comments: 379
+    blanks: 3423
+    files: 23
+  Xml:
+    code: 23849
+    comments: 3673
+    blanks: 309
+    files: 105
+  Ruby:
+    code: 16956
+    comments: 5704
+    blanks: 3230
+    files: 239
+  Json:
+    code: 15395
+    comments: 0
+    blanks: 4
+    files: 16
+  Cpp:
+    code: 15089
+    comments: 120
+    blanks: 2637
+    files: 5
+  Php:
+    code: 13876
+    comments: 55
+    blanks: 901
+    files: 3
+  Perl:
+    code: 13003
+    comments: 70
+    blanks: 1068
+    files: 4
+  Protobuf:
+    code: 6864
+    comments: 333
+    blanks: 1303
+    files: 70
+  Tsx:
+    code: 6766
+    comments: 1782
+    blanks: 831
+    files: 95
+  Sh:
+    code: 6514
+    comments: 2380
+    blanks: 1089
+    files: 53
+  CHeader:
+    code: 5487
+    comments: 18
+    blanks: 1962
+    files: 3
+  Css:
+    code: 3176
+    comments: 144
+    blanks: 43
+    files: 8
+  Velocity:
+    code: 3130
+    comments: 85
+    blanks: 113
+    files: 2
+  TypeScript:
+    code: 1855
+    comments: 730
+    blanks: 385
+    files: 30
+  JavaScript:
+    code: 1428
+    comments: 329
+    blanks: 200
+    files: 15
+  Thrift:
+    code: 821
+    comments: 1048
+    blanks: 299
+    files: 2
+  Batch:
+    code: 656
+    comments: 0
+    blanks: 123
+    files: 5
+  Svg:
+    code: 403
+    comments: 5
+    blanks: 10
+    files: 5
+  Dockerfile:
+    code: 376
+    comments: 266
+    blanks: 71
+    files: 7
+  AsciiDoc:
+    code: 243
+    comments: 44
+    blanks: 82
+    files: 2
+  C:
+    code: 94
+    comments: 33
+    blanks: 21
+    files: 1
+  XSL:
+    code: 47
+    comments: 45
+    blanks: 9
+    files: 2
+  Puppet:
+    code: 21
+    comments: 19
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 17
+    comments: 34
+    blanks: 3
+    files: 2
+  Makefile:
+    code: 16
+    comments: 15
+    blanks: 7
+    files: 1
+  CMake:
+    code: 12
+    comments: 19
+    blanks: 4
+    files: 1
+  Bitbake:
+    code: 2
+    comments: 17
+    blanks: 1
+    files: 1
+  Bash:
+    code: 1
+    comments: 18
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1908
+    blanks: 690
+    files: 21
+  Text:
+    code: 0
+    comments: 5405
+    blanks: 247
+    files: 17
+total:
+  code: 1141622
+  comments: 280930
+  blanks: 169017
+  files: 6169
 ---
 date: "2026-08-24"
 repo:
