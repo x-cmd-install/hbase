@@ -5,18 +5,18 @@ about:
   head: 97ba2df
   archived: false
   latestVersion: "rel/3.0.0"
-  collectedAt: 2026-09-07T05:25:16Z
+  collectedAt: 2026-09-07T19:06:51Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-09-07
   lastRelease: 2026-08-06
 popularity:
-  star: 5555
+  star: 5556
   watcher: 377
   fork: 3400
   release: 54
   contributor: 520
-  pullRequest: 8620
+  pullRequest: 8621
   issue: 0
 language:
   Java: 46249249
@@ -46,7 +46,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 48
-    openPR: 32
+    openPR: 33
     closedIssue: 0
     openIssue: 0
     commit: 30
@@ -54,7 +54,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 97
-    openPR: 46
+    openPR: 47
     closedIssue: 0
     openIssue: 0
     commit: 62
@@ -62,7 +62,7 @@ recent:
     since: 2026-06-09
     release: 2
     mergedPR: 210
-    openPR: 57
+    openPR: 58
     closedIssue: 0
     openIssue: 0
     commit: 125
@@ -70,7 +70,7 @@ recent:
     since: 2026-03-11
     release: 4
     mergedPR: 588
-    openPR: 79
+    openPR: 80
     closedIssue: 0
     openIssue: 0
     commit: 295
@@ -78,7 +78,7 @@ recent:
     since: 2025-09-12
     release: 7
     mergedPR: 1099
-    openPR: 119
+    openPR: 120
     closedIssue: 0
     openIssue: 0
     commit: 575
@@ -86,20 +86,20 @@ recent:
     since: 2024-09-17
     release: 11
     mergedPR: 1982
-    openPR: 191
+    openPR: 192
     closedIssue: 0
     openIssue: 0
     commit: 993
 total:
   release: 54
   mergedPR: 6814
-  openPR: 392
+  openPR: 393
   closedIssue: 0
   openIssue: 0
   commit: 21270
 ---
 path: /home/runner/.x-repo/github.com/apache/hbase
-collectedAt: 2026-09-07T05:26:21Z
+collectedAt: 2026-09-07T19:08:18Z
 loc:
   Java:
     code: 925090
@@ -387,7 +387,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:24+00:00
+  collectedAt: 2026-09-07T19:08:22+00:00
   platform:
     darwin/arm64:
       name:  null
