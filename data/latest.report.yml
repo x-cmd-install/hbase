@@ -2,12 +2,12 @@ about:
   description: "Apache HBase"
   license: Apache-2.0
   homepage: https://hbase.apache.org/
-  head: c64585b
+  head: 50757d0
   archived: false
   latestVersion: "rel/3.0.0"
   latestRelease: "rel/3.0.0"
   latestPrerelease: "rel/3.0.0-beta-2"
-  collectedAt: 2026-09-09T05:37:50Z
+  collectedAt: 2026-09-09T19:43:44Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-09-09
@@ -20,16 +20,16 @@ popularity:
   fork: 3399
   release: 54
   contributor: 520
-  pullRequest: 8626
+  pullRequest: 8639
   issue: 0
 language:
-  Java: 46250935
+  Java: 46251261
   HTML: 3043679
   MDX: 1692130
   Ruby: 817037
   TypeScript: 412497
   Perl: 383739
-  Shell: 380837
+  Shell: 380875
   Python: 147867
   JavaScript: 62210
   Thrift: 56129
@@ -44,70 +44,70 @@ language:
   CMake: 1437
   Makefile: 1359
   Go Template: 1139
-totalBytes: 53392280
+totalBytes: 53392644
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 50
-    openPR: 30
+    mergedPR: 53
+    openPR: 39
     closedIssue: 0
     openIssue: 0
-    commit: 33
+    commit: 35
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 98
-    openPR: 44
+    mergedPR: 101
+    openPR: 53
     closedIssue: 0
     openIssue: 0
-    commit: 65
+    commit: 67
   last90d:
     since: 2026-06-11
     release: 2
-    mergedPR: 205
-    openPR: 54
+    mergedPR: 208
+    openPR: 63
     closedIssue: 0
     openIssue: 0
-    commit: 128
+    commit: 130
   last180d:
     since: 2026-03-13
     release: 4
-    mergedPR: 571
-    openPR: 77
+    mergedPR: 574
+    openPR: 86
     closedIssue: 0
     openIssue: 0
-    commit: 298
+    commit: 300
   last360d:
     since: 2025-09-14
     release: 7
-    mergedPR: 1103
-    openPR: 117
+    mergedPR: 1106
+    openPR: 126
     closedIssue: 0
     openIssue: 0
-    commit: 578
+    commit: 580
   last720d:
     since: 2024-09-19
     release: 11
-    mergedPR: 1976
-    openPR: 187
+    mergedPR: 1979
+    openPR: 196
     closedIssue: 0
     openIssue: 0
-    commit: 990
+    commit: 992
 total:
   release: 54
-  mergedPR: 6819
-  openPR: 390
+  mergedPR: 6822
+  openPR: 399
   closedIssue: 0
   openIssue: 0
-  commit: 21273
+  commit: 21275
 ---
 path: /home/runner/.x-repo/github.com/apache/hbase
-collectedAt: 2026-09-09T05:39:00Z
+collectedAt: 2026-09-09T19:44:47Z
 loc:
   Java:
-    code: 925122
-    comments: 255895
+    code: 925125
+    comments: 255897
     blanks: 149625
     files: 5412
   Html:
@@ -266,8 +266,8 @@ loc:
     blanks: 247
     files: 17
 total:
-  code: 1141713
-  comments: 280920
+  code: 1141716
+  comments: 280922
   blanks: 169014
   files: 6169
 ---
