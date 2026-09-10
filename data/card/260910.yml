@@ -7,7 +7,7 @@ about:
   latestVersion: "rel/3.0.0"
   latestRelease: "rel/3.0.0"
   latestPrerelease: "rel/3.0.0-beta-2"
-  collectedAt: 2026-09-10T20:34:33Z
+  collectedAt: 2026-09-10T23:16:38Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-06
   lastPrerelease: 2026-07-17
 popularity:
-  star: 5557
+  star: 5558
   watcher: 377
   fork: 3399
   release: 54
@@ -103,7 +103,7 @@ total:
   commit: 21276
 ---
 path: /home/runner/.x-repo/github.com/apache/hbase
-collectedAt: 2026-09-10T20:35:31Z
+collectedAt: 2026-09-10T23:17:34Z
 loc:
   Java:
     code: 925125
