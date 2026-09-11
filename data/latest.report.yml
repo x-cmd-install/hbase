@@ -7,7 +7,7 @@ about:
   latestVersion: "rel/3.0.0"
   latestRelease: "rel/3.0.0"
   latestPrerelease: "rel/3.0.0-beta-2"
-  collectedAt: 2026-09-11T05:37:44Z
+  collectedAt: 2026-09-11T19:14:45Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-09-09
@@ -50,60 +50,60 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 58
-    openPR: 36
+    openPR: 35
     closedIssue: 0
     openIssue: 0
     commit: 36
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 106
-    openPR: 49
+    mergedPR: 107
+    openPR: 47
     closedIssue: 0
     openIssue: 0
     commit: 68
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 205
-    openPR: 60
+    mergedPR: 206
+    openPR: 57
     closedIssue: 0
     openIssue: 0
     commit: 131
   last180d:
     since: 2026-03-15
     release: 4
-    mergedPR: 573
-    openPR: 83
+    mergedPR: 574
+    openPR: 80
     closedIssue: 0
     openIssue: 0
     commit: 301
   last360d:
     since: 2025-09-16
     release: 7
-    mergedPR: 1107
-    openPR: 123
+    mergedPR: 1108
+    openPR: 120
     closedIssue: 0
     openIssue: 0
     commit: 581
   last720d:
     since: 2024-09-21
     release: 11
-    mergedPR: 1985
-    openPR: 193
+    mergedPR: 1986
+    openPR: 190
     closedIssue: 0
     openIssue: 0
     commit: 992
 total:
   release: 54
-  mergedPR: 6830
-  openPR: 396
+  mergedPR: 6831
+  openPR: 393
   closedIssue: 0
   openIssue: 0
   commit: 21276
 ---
 path: /home/runner/.x-repo/github.com/apache/hbase
-collectedAt: 2026-09-11T05:38:55Z
+collectedAt: 2026-09-11T19:15:51Z
 loc:
   Java:
     code: 925125
