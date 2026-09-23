@@ -4,7 +4,7 @@
 
 Apache HBase
 
-[![x-cmd/install — hbase Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hbase.svg)](https://x-cmd.com/install/hbase)
+[![x-cmd/install — hbase Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hbase.svg)](https://x-cmd.com/install/hbase)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/3.0.0` (2026-08-06)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 5,560 · **Forks**: 3,399 · **Open issues**: 0 · **Contributors**: 521
+- **Stars**: 5,560 · **Forks**: 3,398 · **Open issues**: 0 · **Contributors**: 521
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 6850 · **Open PRs**: 409 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21288
+- **Releases**: 54 · **Merged PRs**: 6853 · **Open PRs**: 408 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 65 | 48 | 0 | 0 | 36 |
-| last60d | 2026-07-24 | 1 | 104 | 56 | 0 | 0 | 72 |
-| 90d | 2026-06-24 | 2 | 177 | 67 | 0 | 0 | 99 |
-| last180d | 2026-03-26 | 4 | 555 | 91 | 0 | 0 | 281 |
-| 360d | 2025-09-27 | 7 | 1095 | 133 | 0 | 0 | 569 |
-| last720d | 2024-10-02 | 11 | 1954 | 202 | 0 | 0 | 982 |
+| 30d | 2026-08-24 | 0 | 67 | 48 | 0 | 0 | 38 |
+| last60d | 2026-07-25 | 1 | 107 | 56 | 0 | 0 | 74 |
+| 90d | 2026-06-25 | 2 | 176 | 67 | 0 | 0 | 101 |
+| last180d | 2026-03-27 | 4 | 552 | 90 | 0 | 0 | 283 |
+| 360d | 2025-09-28 | 7 | 1098 | 132 | 0 | 0 | 571 |
+| last720d | 2024-10-03 | 11 | 1952 | 201 | 0 | 0 | 983 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:59:54Z._
