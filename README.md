@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,560 · **Forks**: 3,399 · **Open issues**: 0 · **Contributors**: 521
+- **Stars**: 5,561 · **Forks**: 3,399 · **Open issues**: 0 · **Contributors**: 521
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 6862 · **Open PRs**: 412 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21292
+- **Releases**: 54 · **Merged PRs**: 6862 · **Open PRs**: 413 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 60 | 47 | 0 | 0 | 24 |
-| last60d | 2026-07-29 | 1 | 112 | 60 | 0 | 0 | 68 |
-| 90d | 2026-06-29 | 2 | 164 | 70 | 0 | 0 | 93 |
-| last180d | 2026-03-31 | 4 | 545 | 91 | 0 | 0 | 277 |
-| 360d | 2025-10-02 | 7 | 1100 | 134 | 0 | 0 | 567 |
-| last720d | 2024-10-07 | 11 | 1956 | 202 | 0 | 0 | 985 |
+| 30d | 2026-08-29 | 0 | 60 | 48 | 0 | 0 | 24 |
+| last60d | 2026-07-30 | 1 | 110 | 60 | 0 | 0 | 68 |
+| 90d | 2026-06-30 | 2 | 163 | 70 | 0 | 0 | 93 |
+| last180d | 2026-04-01 | 4 | 542 | 92 | 0 | 0 | 277 |
+| 360d | 2025-10-03 | 7 | 1099 | 134 | 0 | 0 | 567 |
+| last720d | 2024-10-08 | 11 | 1947 | 203 | 0 | 0 | 984 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:58:47Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:12:13Z._
