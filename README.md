@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 6872 · **Open PRs**: 411 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21298
+- **Releases**: 54 · **Merged PRs**: 6877 · **Open PRs**: 410 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21300
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 62 | 46 | 0 | 0 | 31 |
-| last60d | 2026-08-01 | 1 | 119 | 58 | 0 | 0 | 75 |
-| 90d | 2026-07-02 | 2 | 163 | 69 | 0 | 0 | 100 |
-| last180d | 2026-04-03 | 4 | 545 | 90 | 0 | 0 | 284 |
-| 360d | 2025-10-05 | 7 | 1108 | 133 | 0 | 0 | 574 |
-| last720d | 2024-10-10 | 11 | 1954 | 201 | 0 | 0 | 987 |
+| 30d | 2026-09-01 | 0 | 62 | 45 | 0 | 0 | 33 |
+| last60d | 2026-08-02 | 1 | 124 | 57 | 0 | 0 | 77 |
+| 90d | 2026-07-03 | 2 | 167 | 67 | 0 | 0 | 102 |
+| last180d | 2026-04-04 | 4 | 550 | 89 | 0 | 0 | 286 |
+| 360d | 2025-10-06 | 7 | 1110 | 132 | 0 | 0 | 576 |
+| last720d | 2024-10-11 | 11 | 1958 | 200 | 0 | 0 | 988 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:21:27Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:35:14Z._
