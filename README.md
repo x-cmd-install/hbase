@@ -26,7 +26,7 @@ Total: **1,141,523** lines of code across **5799** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,559 · **Forks**: 3,401 · **Open issues**: 0 · **Contributors**: 523
+- **Stars**: 5,560 · **Forks**: 3,401 · **Open issues**: 0 · **Contributors**: 523
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 6887 · **Open PRs**: 409 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21315
+- **Releases**: 54 · **Merged PRs**: 6888 · **Open PRs**: 414 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21315
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 58 | 40 | 0 | 0 | 41 |
-| last60d | 2026-08-06 | 1 | 123 | 56 | 0 | 0 | 82 |
-| 90d | 2026-07-07 | 2 | 173 | 66 | 0 | 0 | 111 |
-| last180d | 2026-04-08 | 4 | 538 | 88 | 0 | 0 | 280 |
-| 360d | 2025-10-10 | 6 | 1108 | 131 | 0 | 0 | 586 |
-| last720d | 2024-10-15 | 11 | 1966 | 197 | 0 | 0 | 1000 |
+| 30d | 2026-09-06 | 0 | 59 | 44 | 0 | 0 | 41 |
+| last60d | 2026-08-07 | 0 | 120 | 59 | 0 | 0 | 82 |
+| 90d | 2026-07-08 | 2 | 172 | 71 | 0 | 0 | 111 |
+| last180d | 2026-04-09 | 4 | 533 | 93 | 0 | 0 | 280 |
+| 360d | 2025-10-11 | 6 | 1108 | 136 | 0 | 0 | 586 |
+| last720d | 2024-10-16 | 11 | 1967 | 202 | 0 | 0 | 999 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:18:14Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:27:22Z._
