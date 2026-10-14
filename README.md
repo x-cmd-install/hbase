@@ -14,7 +14,7 @@ x install hbase
 
 ## Code insight
 
-Total: **1,143,101** lines of code across **5801** files in the top 5 languages.
+Total: **1,143,042** lines of code across **5801** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/3.0.0` (2026-08-06)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 
 ## Popularity
 
-- **Stars**: 5,565 · **Forks**: 3,404 · **Open issues**: 0 · **Contributors**: 524
+- **Stars**: 5,566 · **Forks**: 3,403 · **Open issues**: 0 · **Contributors**: 525
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 6903 · **Open PRs**: 417 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21322
+- **Releases**: 54 · **Merged PRs**: 6906 · **Open PRs**: 419 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21324
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 55 | 45 | 0 | 0 | 39 |
-| last60d | 2026-08-14 | 0 | 126 | 62 | 0 | 0 | 82 |
-| 90d | 2026-07-15 | 2 | 175 | 72 | 0 | 0 | 110 |
-| last180d | 2026-04-16 | 4 | 508 | 93 | 0 | 0 | 274 |
-| 360d | 2025-10-18 | 6 | 1110 | 134 | 0 | 0 | 586 |
-| last720d | 2024-10-23 | 10 | 1963 | 204 | 0 | 0 | 996 |
+| 30d | 2026-09-14 | 0 | 57 | 47 | 0 | 0 | 41 |
+| last60d | 2026-08-15 | 0 | 129 | 64 | 0 | 0 | 84 |
+| 90d | 2026-07-16 | 2 | 175 | 74 | 0 | 0 | 112 |
+| last180d | 2026-04-17 | 4 | 509 | 94 | 0 | 0 | 276 |
+| 360d | 2025-10-19 | 6 | 1112 | 135 | 0 | 0 | 588 |
+| last720d | 2024-10-24 | 10 | 1962 | 206 | 0 | 0 | 995 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:41:18Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:42:38Z._
