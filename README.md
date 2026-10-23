@@ -14,11 +14,11 @@ x install hbase
 
 ## Code insight
 
-Total: **1,145,561** lines of code across **5811** files in the top 5 languages.
+Total: **1,145,563** lines of code across **5811** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 929,710 | 257,229 | 150,249 | 5427 |
+| Java | 929,712 | 257,229 | 150,249 | 5427 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 28,623 | 379 | 3,423 | 23 |
 | Xml | 23,850 | 3,674 | 309 | 105 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/2.6.7` (2026-10-14)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
@@ -51,18 +51,27 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 6939 · **Open PRs**: 417 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21342
+- **Releases**: 56 · **Merged PRs**: 6942 · **Open PRs**: 419 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 72 | 30 | 0 | 0 | 53 |
-| last60d | 2026-08-23 | 2 | 152 | 59 | 0 | 0 | 96 |
-| 90d | 2026-07-24 | 3 | 192 | 66 | 0 | 0 | 129 |
-| last180d | 2026-04-25 | 6 | 509 | 89 | 0 | 0 | 286 |
-| 360d | 2025-10-27 | 8 | 1132 | 131 | 0 | 0 | 605 |
-| last720d | 2024-11-01 | 12 | 1971 | 202 | 0 | 0 | 1001 |
+| 30d | 2026-09-23 | 2 | 71 | 30 | 0 | 0 | 54 |
+| last60d | 2026-08-24 | 2 | 154 | 61 | 0 | 0 | 97 |
+| 90d | 2026-07-25 | 3 | 195 | 68 | 0 | 0 | 130 |
+| last180d | 2026-04-26 | 6 | 509 | 91 | 0 | 0 | 287 |
+| 360d | 2025-10-28 | 8 | 1133 | 133 | 0 | 0 | 606 |
+| last720d | 2024-11-02 | 12 | 1974 | 204 | 0 | 0 | 1001 |
+
+## Distribution status
+
+Reported by **40** distros on [repology.org](https://repology.org/project/hbase). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `3.0.0` | ✅ latest |
+| Nix unstable | `2.6.2` | 🪦 legacy |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:24:13Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:28:58Z._
