@@ -14,11 +14,11 @@ x install hbase
 
 ## Code insight
 
-Total: **1,146,561** lines of code across **5816** files in the top 5 languages.
+Total: **1,146,597** lines of code across **5816** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 930,631 | 257,382 | 150,365 | 5432 |
+| Java | 930,667 | 257,388 | 150,368 | 5432 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 28,623 | 379 | 3,423 | 23 |
 | Xml | 23,850 | 3,674 | 309 | 105 |
@@ -26,13 +26,13 @@ Total: **1,146,561** lines of code across **5816** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/2.6.7` (2026-10-14)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 5,569 · **Forks**: 3,405 · **Open issues**: 0 · **Contributors**: 528
+- **Stars**: 5,570 · **Forks**: 3,405 · **Open issues**: 0 · **Contributors**: 528
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 6968 · **Open PRs**: 421 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21361
+- **Releases**: 56 · **Merged PRs**: 6974 · **Open PRs**: 425 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 61 | 29 | 0 | 0 | 45 |
-| last60d | 2026-09-05 | 2 | 136 | 55 | 0 | 0 | 94 |
-| 90d | 2026-08-06 | 3 | 204 | 68 | 0 | 0 | 134 |
-| last180d | 2026-05-08 | 4 | 472 | 92 | 0 | 0 | 278 |
-| 360d | 2025-11-09 | 8 | 1136 | 134 | 0 | 0 | 610 |
-| last720d | 2024-11-14 | 12 | 1959 | 201 | 0 | 0 | 1003 |
+| 30d | 2026-10-06 | 2 | 64 | 29 | 0 | 0 | 46 |
+| last60d | 2026-09-06 | 2 | 142 | 58 | 0 | 0 | 95 |
+| 90d | 2026-08-07 | 2 | 206 | 70 | 0 | 0 | 135 |
+| last180d | 2026-05-09 | 4 | 472 | 96 | 0 | 0 | 279 |
+| 360d | 2025-11-10 | 8 | 1141 | 138 | 0 | 0 | 611 |
+| last720d | 2024-11-15 | 12 | 1963 | 204 | 0 | 0 | 1003 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:08:36Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:28:55Z._
