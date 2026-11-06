@@ -14,11 +14,11 @@ x install hbase
 
 ## Code insight
 
-Total: **1,146,597** lines of code across **5816** files in the top 5 languages.
+Total: **1,146,770** lines of code across **5816** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 930,667 | 257,388 | 150,368 | 5432 |
+| Java | 930,840 | 257,430 | 150,401 | 5432 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 28,623 | 379 | 3,423 | 23 |
 | Xml | 23,850 | 3,674 | 309 | 105 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/2.6.7` (2026-10-14)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
@@ -51,27 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 6974 · **Open PRs**: 425 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21362
+- **Releases**: 56 · **Merged PRs**: 6975 · **Open PRs**: 434 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 64 | 29 | 0 | 0 | 46 |
-| last60d | 2026-09-06 | 2 | 142 | 58 | 0 | 0 | 95 |
-| 90d | 2026-08-07 | 2 | 206 | 70 | 0 | 0 | 135 |
-| last180d | 2026-05-09 | 4 | 472 | 96 | 0 | 0 | 279 |
-| 360d | 2025-11-10 | 8 | 1141 | 138 | 0 | 0 | 611 |
-| last720d | 2024-11-15 | 12 | 1963 | 204 | 0 | 0 | 1003 |
-
-## Distribution status
-
-Reported by **40** distros on [repology.org](https://repology.org/project/hbase). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.0.0` | ✅ latest |
-| Nix unstable | `2.6.2` | 🪦 legacy |
+| 30d | 2026-10-07 | 2 | 65 | 37 | 0 | 0 | 49 |
+| last60d | 2026-09-07 | 2 | 141 | 67 | 0 | 0 | 98 |
+| 90d | 2026-08-08 | 2 | 206 | 79 | 0 | 0 | 138 |
+| last180d | 2026-05-10 | 4 | 473 | 105 | 0 | 0 | 282 |
+| 360d | 2025-11-11 | 8 | 1142 | 147 | 0 | 0 | 614 |
+| last720d | 2024-11-16 | 12 | 1964 | 213 | 0 | 0 | 1005 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:28:55Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:27:05Z._
