@@ -14,11 +14,11 @@ x install hbase
 
 ## Code insight
 
-Total: **1,147,023** lines of code across **5817** files in the top 5 languages.
+Total: **1,147,234** lines of code across **5818** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 931,093 | 257,475 | 150,438 | 5433 |
+| Java | 931,304 | 257,512 | 150,465 | 5434 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 28,623 | 379 | 3,423 | 23 |
 | Xml | 23,850 | 3,674 | 309 | 105 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 6993 · **Open PRs**: 426 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21373
+- **Releases**: 56 · **Merged PRs**: 6994 · **Open PRs**: 428 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 76 | 28 | 0 | 0 | 43 |
-| last60d | 2026-09-11 | 2 | 143 | 56 | 0 | 0 | 98 |
-| 90d | 2026-08-12 | 2 | 218 | 71 | 0 | 0 | 139 |
-| last180d | 2026-05-14 | 4 | 473 | 96 | 0 | 0 | 280 |
-| 360d | 2025-11-15 | 8 | 1148 | 139 | 0 | 0 | 614 |
-| last720d | 2024-11-20 | 12 | 1977 | 204 | 0 | 0 | 1013 |
+| 30d | 2026-10-12 | 2 | 76 | 29 | 0 | 0 | 44 |
+| last60d | 2026-09-12 | 2 | 144 | 58 | 0 | 0 | 99 |
+| 90d | 2026-08-13 | 2 | 217 | 73 | 0 | 0 | 140 |
+| last180d | 2026-05-15 | 4 | 469 | 98 | 0 | 0 | 281 |
+| 360d | 2025-11-16 | 6 | 1149 | 141 | 0 | 0 | 615 |
+| last720d | 2024-11-21 | 12 | 1975 | 204 | 0 | 0 | 1014 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:23:17Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:36:42Z._
