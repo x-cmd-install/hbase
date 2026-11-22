@@ -1,51 +1,10 @@
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: hbase
   visiblename: hbase
-  version: 2.6.2
+  version: 3.0.0
   origversion: null
-  status: legacy
-  summary: Distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_11
-  srcname: hbase3
-  visiblename: hbase
-  version: 3.0.0-beta1
-  origversion: 3.0.0-beta-1
-  status: outdated
-  summary: Distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_11
-  srcname: hbase_2_4
-  visiblename: hbase
-  version: 2.4.18
-  origversion: null
-  status: legacy
-  summary: Distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_11
-  srcname: hbase_2_5
-  visiblename: hbase
-  version: 2.5.11
-  origversion: null
-  status: legacy
-  summary: Distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
+  status: newest
+  summary: 'Hadoop database: a distributed, scalable, big data store'
 - repo: nix_stable_24_05
   srcname: hbase
   visiblename: hbase
@@ -53,30 +12,6 @@
   origversion: null
   status: legacy
   summary: A distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: hbase
-  visiblename: hbase
-  version: 2.6.0
-  origversion: null
-  status: legacy
-  summary: Distributed, scalable, big data store
-  maintainers:
-    - me@illustris.tech
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_05
-  srcname: hbase_2_5
-  visiblename: hbase
-  version: 2.5.11
-  origversion: null
-  status: legacy
-  summary: Distributed, scalable, big data store
   maintainers:
     - me@illustris.tech
   licenses:
@@ -114,6 +49,18 @@
   origversion: null
   status: legacy
   summary: A distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: hbase
+  visiblename: hbase
+  version: 2.6.0
+  origversion: null
+  status: legacy
+  summary: Distributed, scalable, big data store
   maintainers:
     - me@illustris.tech
   licenses:
@@ -183,6 +130,66 @@
   srcname: hbase_2_4
   visiblename: hbase
   version: 2.4.18
+  origversion: null
+  status: legacy
+  summary: Distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: hbase_2_5
+  visiblename: hbase
+  version: 2.5.11
+  origversion: null
+  status: legacy
+  summary: Distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: hbase
+  visiblename: hbase
+  version: 2.6.2
+  origversion: null
+  status: legacy
+  summary: Distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: hbase3
+  visiblename: hbase
+  version: 3.0.0-beta1
+  origversion: 3.0.0-beta-1
+  status: outdated
+  summary: Distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: hbase_2_4
+  visiblename: hbase
+  version: 2.4.18
+  origversion: null
+  status: legacy
+  summary: Distributed, scalable, big data store
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: hbase_2_5
+  visiblename: hbase
+  version: 2.5.11
   origversion: null
   status: legacy
   summary: Distributed, scalable, big data store
@@ -458,7 +465,7 @@
   status: legacy
   summary: open source, non-relational, distributed database system
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
   vulnerable: true
 - repo: wikidata
   srcname: Q2538066
@@ -468,12 +475,5 @@
   status: outdated
   summary: open source, non-relational, distributed database system
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
   vulnerable: true
-- repo: homebrew
-  srcname: hbase
-  visiblename: hbase
-  version: 3.0.0
-  origversion: null
-  status: newest
-  summary: 'Hadoop database: a distributed, scalable, big data store'
