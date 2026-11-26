@@ -14,11 +14,11 @@ x install hbase
 
 ## Code insight
 
-Total: **1,151,195** lines of code across **5851** files in the top 5 languages.
+Total: **1,151,711** lines of code across **5851** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 932,910 | 257,945 | 150,681 | 5445 |
+| Java | 933,426 | 258,012 | 150,745 | 5445 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 30,401 | 829 | 3,883 | 43 |
 | Xml | 23,960 | 3,709 | 315 | 107 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/2.6.7` (2026-10-14)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 7047 · **Open PRs**: 415 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21404
+- **Releases**: 56 · **Merged PRs**: 7051 · **Open PRs**: 413 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21407
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 83 | 30 | 0 | 0 | 53 |
-| last60d | 2026-09-26 | 2 | 169 | 46 | 0 | 0 | 114 |
-| 90d | 2026-08-27 | 2 | 249 | 60 | 0 | 0 | 158 |
-| last180d | 2026-05-29 | 4 | 486 | 88 | 0 | 0 | 291 |
-| 360d | 2025-11-30 | 6 | 1187 | 130 | 0 | 0 | 639 |
-| last720d | 2024-12-05 | 12 | 2000 | 191 | 0 | 0 | 1035 |
+| 30d | 2026-10-27 | 0 | 87 | 28 | 0 | 0 | 58 |
+| last60d | 2026-09-27 | 2 | 172 | 44 | 0 | 0 | 119 |
+| 90d | 2026-08-28 | 2 | 247 | 57 | 0 | 0 | 163 |
+| last180d | 2026-05-30 | 4 | 484 | 85 | 0 | 0 | 296 |
+| 360d | 2025-12-01 | 6 | 1189 | 128 | 0 | 0 | 644 |
+| last720d | 2024-12-06 | 12 | 2002 | 189 | 0 | 0 | 1037 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:16:44Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:55:14Z._
