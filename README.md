@@ -14,14 +14,14 @@ x install hbase
 
 ## Code insight
 
-Total: **1,151,711** lines of code across **5851** files in the top 5 languages.
+Total: **1,151,715** lines of code across **5851** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 933,426 | 258,012 | 150,745 | 5445 |
 | Html | 51,029 | 300 | 252 | 17 |
 | Python | 30,401 | 829 | 3,883 | 43 |
-| Xml | 23,960 | 3,709 | 315 | 107 |
+| Xml | 23,964 | 3,710 | 315 | 107 |
 | Ruby | 16,971 | 5,706 | 3,233 | 239 |
 
 ## OpenSSF Scorecard
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 7051 · **Open PRs**: 413 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21407
+- **Releases**: 56 · **Merged PRs**: 7052 · **Open PRs**: 414 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 21408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 87 | 28 | 0 | 0 | 58 |
-| last60d | 2026-09-27 | 2 | 172 | 44 | 0 | 0 | 119 |
-| 90d | 2026-08-28 | 2 | 247 | 57 | 0 | 0 | 163 |
-| last180d | 2026-05-30 | 4 | 484 | 85 | 0 | 0 | 296 |
-| 360d | 2025-12-01 | 6 | 1189 | 128 | 0 | 0 | 644 |
-| last720d | 2024-12-06 | 12 | 2002 | 189 | 0 | 0 | 1037 |
+| 30d | 2026-10-28 | 0 | 86 | 27 | 0 | 0 | 59 |
+| last60d | 2026-09-28 | 2 | 169 | 44 | 0 | 0 | 120 |
+| 90d | 2026-08-29 | 2 | 248 | 58 | 0 | 0 | 164 |
+| last180d | 2026-05-31 | 4 | 484 | 86 | 0 | 0 | 297 |
+| 360d | 2025-12-02 | 6 | 1180 | 129 | 0 | 0 | 645 |
+| last720d | 2024-12-07 | 12 | 2003 | 190 | 0 | 0 | 1038 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for hbase lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:55:14Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:10:46Z._
