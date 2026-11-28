@@ -7,7 +7,7 @@ about:
   latestVersion: "rel/2.6.7"
   latestRelease: "rel/2.6.7"
   latestPrerelease: "rel/3.0.0-beta-2"
-  collectedAt: 2026-11-27T09:09:32Z
+  collectedAt: 2026-11-28T08:27:17Z
 timeline:
   created: 2014-05-23
   lastCommit: 2026-11-26
@@ -20,7 +20,7 @@ popularity:
   fork: 3404
   release: 56
   contributor: 527
-  pullRequest: 8912
+  pullRequest: 8914
   issue: 0
 language:
   Java: 46791454
@@ -47,63 +47,63 @@ language:
 totalBytes: 54106082
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 86
-    openPR: 27
+    mergedPR: 82
+    openPR: 29
     closedIssue: 0
     openIssue: 0
     commit: 59
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 169
-    openPR: 44
+    mergedPR: 164
+    openPR: 46
     closedIssue: 0
     openIssue: 0
     commit: 120
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 248
-    openPR: 58
+    openPR: 60
     closedIssue: 0
     openIssue: 0
     commit: 164
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 4
-    mergedPR: 484
-    openPR: 86
+    mergedPR: 478
+    openPR: 88
     closedIssue: 0
     openIssue: 0
     commit: 297
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
-    mergedPR: 1180
-    openPR: 129
+    mergedPR: 1175
+    openPR: 131
     closedIssue: 0
     openIssue: 0
     commit: 645
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 12
     mergedPR: 2003
-    openPR: 190
+    openPR: 192
     closedIssue: 0
     openIssue: 0
     commit: 1038
 total:
   release: 56
   mergedPR: 7052
-  openPR: 414
+  openPR: 416
   closedIssue: 0
   openIssue: 0
   commit: 21408
 ---
 path: /home/runner/.x-repo/github.com/apache/hbase
-collectedAt: 2026-11-27T09:10:26Z
+collectedAt: 2026-11-28T08:28:25Z
 loc:
   Java:
     code: 933426
